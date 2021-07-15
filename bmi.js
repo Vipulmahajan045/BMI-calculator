@@ -1,4 +1,5 @@
 //BMI = KG / (H/100 * H/100)
+
 document.getElementById("submit").addEventListener("click",bmicalculator);
 function bmicalculator(){
     var cm = parseInt(document.getElementById("cm").value);
