@@ -4,7 +4,7 @@ body{
 #container{
     text-align: center;
     width: 450px;
-    height: 450px;
+    height: 550px;
     margin-left: 400px;
     margin-top: 65px;
     background-color: #FF66B3;
@@ -41,12 +41,13 @@ h1{
 
 #weightguide{
     margin-left: 20px;
-    margin-top: 60px;
+    margin-top: 25px;
 }
 
 #result{
+    text-align: center;
     font-size: 35px;
-    margin-left: 90px;
+    /* margin-left: 90px; */
     color: blue;
 
 }
